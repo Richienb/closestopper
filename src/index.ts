@@ -68,4 +68,12 @@ export class CloseStopper {
     set enabled(val: boolean) {
         this._enabled = val
     }
+
+    /**
+     * Whether or not closestopper will activate
+     * @method
+     */
+    get enabled() {
+    	return this._enabled
+    }
 }
