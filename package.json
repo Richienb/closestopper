@@ -15,7 +15,7 @@
    },
   "devDependencies": {
     "rollup": "^1.8.0",
-    "typescript": "^3.4.1",
+    "typescript": "^3.4.5",
     "uglifyjs": "^2.4.11"
   }
 }
