@@ -17,10 +17,10 @@ acorn@^6.1.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.1.1.tgz#7d25ae05bb8ad1f9b699108e1094ecd7884adc1f"
   integrity sha512-jPTiwtOxaHNaAPg/dmrJ/beuzLRnXtB0kQPQ8JpotKJgTB6rX6c8mlf315941pyjBSaPg8NHXS9fhP4u17DpGA==
 
-rollup@^1.14.5:
-  version "1.14.5"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-1.14.5.tgz#a0eb9197f311396870df2ad591277ccd37e7bc79"
-  integrity sha512-XKegaT6NhrKuBvFQCeLfDJ7bNpfnWIMQfLx9+Qe34rrKaVOtNGVIf5vyIKuwS4JlF2l/nA7RvEsItXqyF0ZFZg==
+rollup@^1.14.6:
+  version "1.14.6"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-1.14.6.tgz#4d1165bdcdac4d0510ce127495c42f238098943d"
+  integrity sha512-A8f54Fms9PAG2VBLBg/XOBgN6tRQKgroltD86f+gF5+6eRmAAlFBJAFV0K7MHl2aHOCcrATWO1B8SAjVD2Ehsw==
   dependencies:
     "@types/estree" "0.0.39"
     "@types/node" "^12.0.7"
