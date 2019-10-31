@@ -14,7 +14,7 @@
     "build:umd:min": "cd dist/umd && uglifyjs --compress --mangle --source-map --screw-ie8 --comments --o closestopper.min.js -- yourlibrary.js && gzip closestopper.min.js -c > closestopper.min.js.gz"
    },
   "devDependencies": {
-    "rollup": "^1.16.2",
+    "rollup": "^1.26.2",
     "typescript": "^3.5.2",
     "uglifyjs": "^2.4.11"
   }
